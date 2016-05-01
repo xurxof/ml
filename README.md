@@ -1,2 +1,2 @@
-# ml
-Machine learning tests, tutorials and notebooks 
+# ml (Machine Learning)
+Personal machine learning tests, tutorials and notebooks 
